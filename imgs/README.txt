@@ -1,0 +1,1 @@
+Don't put heavy images inside the folder!
